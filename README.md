@@ -10,7 +10,6 @@ This project demonstrates cohort analysis techniques to evaluate customer retent
 
 - `data/`: Contains the dataset files.
 - `scripts/`: Python scripts for data processing and analysis.
-- `notebooks/`: Jupyter notebooks for interactive analysis.
 - `sql/`: SQL queries for cohort analysis.
 - `requirements.txt`: Python dependencies.
 
